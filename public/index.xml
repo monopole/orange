@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeff the boss</title>
+    <title>Resume on Jeff the boss</title>
     <link>https://example.com/</link>
-    <description>Recent content on Jeff the boss</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Resume on Jeff the boss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Dec 2020 12:23:48 -0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://example.com/contact/</link>
       <pubDate>Sun, 13 Dec 2020 12:24:43 -0800</pubDate>
       
       <guid>https://example.com/contact/</guid>
-      <description> Email: jeff.regan@gmail.com Phone: 650-xxx-xxxx   Mailing Address  xxxx Mountain View CA
-  Social  Facebook Twitter Google+  </description>
+      <description> Email: jeff.regan@gmail.com Phone: 650-xxx-xxxx GH: github.com/monopole   Mailing Address  xxxx Mountain View CA
+  </description>
     </item>
     
     <item>
-      <title>Resume</title>
-      <link>https://example.com/resume/</link>
-      <pubDate>Sun, 13 Dec 2020 12:23:48 -0800</pubDate>
+      <title>Random</title>
+      <link>https://example.com/random/</link>
+      <pubDate>Sun, 13 Dec 2020 12:23:30 -0800</pubDate>
       
-      <guid>https://example.com/resume/</guid>
-      <description>Software Engineer
-Problems I solved
-open source kubernetes cluster management 2017 Mar - present
-The two problems here were
-  Managing the dozens or possibly thousands of variants of the desired state of a cluster or set of clusters.
-  Leading an open source project from nothing to 6500 github stars and over 100 contributors.
-  To create a kubernetes cluster, one declares the state of all cluster objects in files, then applies those files to the cluster.</description>
+      <guid>https://example.com/random/</guid>
+      <description>random </description>
     </item>
     
     <item>
