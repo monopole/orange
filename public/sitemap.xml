@@ -13,8 +13,73 @@
   </url>
   
   <url>
-    <loc>https://example.com/random/</loc>
-    <lastmod>2020-12-13T12:23:30-08:00</lastmod>
+    <loc>https://example.com/experiences/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/kustomize/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/terrabella/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/vanadium/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/helpouts/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/games/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/igoogle/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/lincoln/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/experiences/eidogen/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/personal/</loc>
+    <lastmod>1969-12-31T16:33:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/personal/skills/</loc>
+    <lastmod>1969-12-31T16:33:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/personal/languages/</loc>
+    <lastmod>1969-12-31T16:33:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/personal/awards/</loc>
+    <lastmod>1969-12-31T16:33:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/personal/education/</loc>
+    <lastmod>1969-12-31T16:33:30-08:00</lastmod>
   </url>
   
   <url>
@@ -22,27 +87,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/projects/helpouts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/kustomize/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/</loc>
-  </url>
-  
-  <url>
     <loc>https://example.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/terrabella/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/projects/vanadium/</loc>
   </url>
   
 </urlset>

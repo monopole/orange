@@ -4,26 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Jeff the boss</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/all.css">
+    <link rel="stylesheet" href="/css/bulma.css">
 </head>
 <body>
-    <div class="container"><header>
-</header><nav>
-    <a href="/">Resume</a>
-    <a href="/projects">Projects</a>
-    <a href="/contact">Contact</a>
-</nav>
-<main>
-  TOP LEVEL INDEX
-  <figure class="avatar">
-    <img src="/headshot.jpg"/> 
-</figure>
+    <div class="container">
+        <div class="box mt-6 mb-6"><header>
+</header>
 
-<p>Software Engineer</p>
-<p>Problems I solved</p>
-<h2 id="open-source-kubernetes-cluster-management">open source kubernetes cluster management</h2>
-<p>2017 Mar - present</p>
-<p>The two problems here were</p>
+<main>
+
+<div class="columns">
+
+  <div class="column">
+    <h1 class="title is-1">Jeff Regan</h1>
+    <h2 class="subtitle">Software Engineer</h2>
+    <div class="content is-medium">
+      Backend, frontend, mobile.
+      Yada yada yada.
+      Yada yada yada.
+      Yada yada yada.
+      Yada yada yada.
+      Yada yada yada.
+      US Citizen. Security clearance lapsed (~2003).
+    </div><div class="column">
+    <section>
+        
+
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/shanghai.png">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>open source kubernetes cluster management</strong></p>
+                    <p class="has-text-right"><small>Google 2020</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>The two problems here were</p>
 <ul>
 <li>
 <p>Managing the dozens or possibly thousands of variants
@@ -44,17 +69,59 @@ the edits themselves as kubernetes objects.</p>
 <p>Kustomize is used by Google and other hundreds of other
 companies to manage their cluster variants.</p>
 <p>I founded and led the project.</p>
-<h2 id="satellite-control">satellite control</h2>
-<p>Worked on problems in satellite management</p>
+
+        </div>
+
+        
+
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/skysat.jpg">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>satellite control</strong></p>
+                    <p class="has-text-right"><small>Google 2017</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>Worked on problems in satellite management</p>
 <ul>
 <li>Conversion of optimization solutions for communication and image capture to satellite commands.</li>
 <li>Conversion of orbitology software (TLE to orbital states computation) to Google systems.</li>
 <li>Development cycle for the above, including deployment, rollbacks, and requirements
 collection from the flight teams.</li>
 </ul>
-<p>Worked for one year on this (~2016), before sale of Terrabella to Planet Labs.</p>
-<h2 id="secure-distributed-computing">secure, distributed computing</h2>
-<p>Problem: How can distributed servers find each other,
+<p>Worked for one year on this, before <a href="https://spacenews.com/planet-confirms-google-stake-as-terra-bella-deal-closes">sale</a> of Terrabella to <a href="https://www.planet.com/terrabella">Planet</a>.</p>
+
+        </div>
+
+        
+
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/vio.png">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>secure, distributed computing</strong></p>
+                    <p class="has-text-right"><small>Google 2016</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>Problem: How can distributed servers find each other,
 securely communicate, and delegate authority.</p>
 <p>This project was a predecessor to <a href="https://kubernetes.io">kubernetes</a> and
 Google fuchsia.</p>
@@ -65,31 +132,43 @@ authorization based on public-key cryptography.</p>
 <p>I contributed to the libraries and overall project
 organization, wrote extensive, tested <a href="https://vanadium.github.io/tutorials/hello-world.html">tutorials</a>, and
 built demos for android, ios and X11.</p>
-<ul>
-<li>
-<p><a href="https://github.com/monopole/volley">volley</a>, a distributed openGL app for
+<p>In particular, I wrote <a href="https://www.youtube.com/watch?v=dk-5BkO_P14">volley</a>
+(<a href="https://github.com/monopole/volley">code</a>), a distributed openGL app for
 iOS, android, osX, X11 in Go that demonstrates
-vanadium&rsquo;s cross platform power (<a href="https://www.youtube.com/watch?v=dk-5BkO_P14">video</a>).</p>
-</li>
-<li>
-<p><a href="https://github.com/vanadium/java/tree/master/projects/moments">moments</a>, an android photo sharing app
-demonstrating vanadium services, authentication and
-discovery.</p>
-</li>
-</ul>
+vanadium&rsquo;s cross platform power.</p>
 <p>To test the tutorials I wrote a literate programming
 system to read markdown, extract fenced code blocks,
 execute them and report errors ([mdrip]).  mdrip is
-used to test <a href="https://googlecontainertools.github.io/kpt">kpt</a>, <a href="https://github.com/kubernetes-sigs/kustomize">kustomize</a> and other tools.</p>
+used to test <a href="https://googlecontainertools.github.io/kpt">kpt</a>, [kustomize] and other tools.</p>
 <p>Work was awarded with various internal mechanisms.</p>
 <p>It was an honor to work with a team including Dave
 Presotto and Ken Thompson, building the first large
 system based on Pike&rsquo;s Go.</p>
 <p>Investment in open-source Vanadium was halted in
 favor of <a href="https://fuchsia.dev">fuchsia</a>.  I moved to terrabella.</p>
-<p>Time: 2014 July - 2016 Feb</p>
-<h2 id="monetized-hangouts--google-via-human">monetized hangouts / google via human</h2>
-<p>Problem: How can Google literally connect a query to an expert?</p>
+
+        </div>
+
+        
+
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/helpouts.png">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>monetized hangouts / google via human</strong></p>
+                    <p class="has-text-right"><small>Google 2014</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>Problem: How can Google literally connect a query to an expert?</p>
 <p>Google helpouts was Google&rsquo;s attempt to turn video chat
 into a business platform.  If a Google query for <em>How
 to fix a toilet leak?</em> failed, it could connect you to
@@ -102,97 +181,232 @@ referral system.</p>
 advice and medical services in one app.  All of this in
 one UX was <a href="https://venturebeat.com/2015/02/15/helpouts-r-i-p-googles-build-it-and-they-will-come-approach-ultimately-failed-health-practitioners">too muddled</a> and new for both the
 consumers and the providers.  <a href="https://www.onemedical.com">One-medical</a> is an
-example of how to do this well in one vertical.
-Imagine mixing this with piano lessons.  Our overall
-plan was arrogant.</p>
-<p>Awarded spot bonus for the Helpouts launch.</p>
-<p>Time: 2013 Jan - 2014 June</p>
-<h2 id="social-games-on-google">social games on Google</h2>
-<p>Problem: Safely offer 3rd party games on Google web platform</p>
-<h2 id="ballistic-missile-defense-ux">ballistic missile defense UX</h2>
-<pre><code>2005 Lincoln Laboratories  / Group 33 Lexington MA
+example of how to do this well in one vertical.</p>
+<p>Despite these drawbacks, I suspect it would have
+been wildly successful if launched during a pandemic.</p>
 
-  * Managed team that built two cornerstone apps for the Reagan Test
-    Site. The first gathered sensor (radar, optical, etc.) data from
-    the network and presented it in ~30 different widgets (e.g.,
-    a radar bore-site view of incoming objects).  The second app was a
-    simulator.  It allowed someone to set up a missile attack
-    and create simulated sensors operating in the scenario.  The
-    simulated sensors emit data to the network to exercise displays
-    and other system components (database recorder, safety systems,
-    etc.). The simulator is central to operator training, as human
-    operators control the simulated sensors as they would real
-    sensors.
+        </div>
 
-  * Set up iterative test and release cycles new to Lincoln.
-    New tested versions of the apps are deployed every two weeks to
-    the Reagan Test Site in Kwajalein, rather than once or twice a
-    year at unpredictable times.
+        
 
-  * Both applications based on the Eclipse Rich Client Platform (ERCP)
-    and SWT, capable of running on either Linux or Windows.  Each
-    &quot;display&quot; is an ERCP view.  Infected four other Lincoln groups
-    with ERCP technology.
-</code></pre>
-<h2 id="2003-founding-employee-of-eidogen-inc-pasadena-ca">2003 Founding employee of Eidogen Inc., Pasadena CA</h2>
-<pre><code>  Eidogen was a software-based biotechnology startup out of
-  Caltech, offering the world's largest database of protein structure
-  and binding site data, along with tools to exploit it.  Company has
-  since merged with Sertanty to form &lt;a
-  href=&quot;http://www.eidogen-sertanty.com&quot;&gt;eidogen-sertanty&lt;/a&gt;.
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/gplus_games.jpg">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>Google&#39;s first high profile games effort</strong></p>
+                    <p class="has-text-right"><small>Google 2013</small></p>
+                </div>
+            </div>
+        </div>
 
-  * Built the product division, including recruitment and management
-    of ten software engineers (BS thru PhD), an agile/XP coach, a two
-    person QA/analyst team and a sysadmin.
 
-  * Led development of &lt;a href=&quot;https://www.eidogen.com/products.php&quot;&gt;eve&lt;/a&gt;,
-    a proteomics visualization tool based on Java
-    and Java3d.  Allows a user to manipulate proteins simultaneously
-    in a 3D physical space and a 1D sequence space, highlighting
-    predicted binding sites, sections of conserved sequence, etc.
-    Used quaternion dynamics, dynamic progamming, etc.
 
-  * Helped build a proteomics calculation server called &lt;em&gt;tip&lt;/em&gt; - a
-    patent-pending, multi-hosted calculation engine with OODB-based
-    object persistence (a mini-borg).  The server pulls data and
-    calculation instructions off a prioritized job queue, performs
-    calculations using multiple computers, and makes results available
-    via the DB and java RMI.  Raw data and the results of lengthy
-    calculations are stored in an object-oriented database devoted to
-    the server.  Some calculations are simply queries on this data,
-    other use incoming data and the existing database to create
-    results that further enrich the database with new structures and
-    binding sites.
+        <div class="content is-size-6 pl-2">
+            <p>TLM of 5-10 swe/qa/interns, coordinating with
+extended team of dozens engaged in various aspects of
+G+ (stream, auth, privacy, and api).</p>
+<p>Built the most complex part of the G+ web client, as
+allowed 3rd parts apps to run on google.com with
+appropriate risk mitigation.</p>
+<p>Launched <em>first aspect</em> of the G+ API to
+developers, preceeding what came second (activity
+stream listing) by over a year.  launched
+first Oauth2 app on Google.</p>
 
-  * Extensive use of Java platform (Swing, Java3d, JDO, JMX, JNI,
-    XMLC).  Also leaned on Eclipse, Ruby, XML/Castor, XMLC.
+        </div>
 
-  * Built development environment from the ground up: release
-    planning, two week iterations, upfront estimation with customer,
-    measurements feeding back into planning, test driven development,
-    pair programming, refactoring, etc.
+        
 
-  * Budgeted, selected and helped install initial company hardware and
-    software infrastructure (forty+ linux boxen, solaris boxes,
-    versant DB, wiki, source control, etc.)
-</code></pre>
-<h2 id="education">Education</h2>
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/igoogle.jpg">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>Google&#39;s first social platform</strong></p>
+                    <p class="has-text-right"><small>Google 2010</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>Google&rsquo;s first attempt at both accepting POSTs (an external developer API)
+and <a href="http://google-au.blogspot.com/2009/08/igoogle-now-lets-you-share-play-and.html">social sharing</a>.</p>
 <ul>
-<li>
-<p>Ph.D. Physics, University of California, San Diego
-Electron Transfer in Proteins</p>
-</li>
-<li>
-<p>M.S. Electrical Engineering, University of Iowa
-Optical Switching at a Nonlinear Dielectric Interface
-Linear and nonlinear optics, linear and nonlinear control theory /
-signal processing. TA signal processing and control theory</p>
-</li>
+<li><a href="https://groups.google.com/group/Google-Gadgets-API/browse_thread/thread/51d0763471559ec5">hmm1</a></li>
+<li><a href="http://googleblog.blogspot.com/2008/10/whats-new-with-igoogle.html">hmm3</a></li>
+<li><a href="http://googleblog.blogspot.com/2008/04/sharing-gadgets-just-got-better.html">igoogle-blog</a></li>
+<li><a href="http://googlegadgetsapi.blogspot.com/2008/04/write-collaborative-gadget-with-one.html">igoogle-api</a></li>
+<li><a href="https://vimeo.com/2235442">gadget-authoring</a></li>
+<li><a href="http://google-au.blogspot.com/2009/08/igoogle-now-lets-you-share-play-and.html">social sharing</a></li>
+<li><a href="http://googleblog.blogspot.com/2008/10/whats-new-with-igoogle.html">hmm3</a></li>
 </ul>
 
+        </div>
 
-        </main><footer>
+        
+
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/reaganTestSite.jpg">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>missle defense UX</strong></p>
+                    <p class="has-text-right"><small>Lincoln Labs 2005</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>Managed team that built two cornerstone apps for the Reagan Test
+Site. The first gathered sensor (radar, optical, etc.) data from
+the network and presented it in ~30 different widgets (e.g.,
+a radar bore-site view of incoming objects).
+The second app was a simulator to drive the displays for training.</p>
+<p>Set up iterative test and release cycles new to Lincoln.
+New tested versions of the apps are deployed every two weeks to
+the Reagan Test Site in Kwajalein, rather than once or twice a
+year at unpredictable times.</p>
+
+        </div>
+
+        
+
+        <div class="columns">
+            <div class="column is-one-quarter">
+                <figure class="image is-3by2">
+                    <img src="/EVE_3.jpg">
+                </figure>
+            </div>
+            <div class="column">
+                <div class="box is-pulled-right">
+                    <p class="has-text-right"><strong>protein structure prediction</strong></p>
+                    <p class="has-text-right"><small>Eidogen 2003</small></p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content is-size-6 pl-2">
+            <p>Second employee at <a href="http://www.eidogen-sertanty.com">Eidogen</a>,
+a protein structure prediction startup.</p>
+<p>Built <a href="http://www.eidogen.com/eve.php">eve</a>, which still seems to be available.</p>
+
+        </div>
+
+        
+    </section>
+    <section>
+        <h2> Projects </h2>
+        
+    </section>
+</div>
+</div>
+
+  <div class="column is-one-quarter has-background-white-ter p-2">
+    <div class="container pb-6">
+      <figure class="image is-square">
+        <img class="is-rounded" src="/headshot.jpg">
+      </figure>
+    </div><div>
+    <span class="fas fa-envelope pr-2"> </span>
+    <a href="mailto:jeff.regan@gmail.com">jeff.regan@gmail.com</a>
+</div>
+<div class="mt-2">
+    <span class="fas fa-phone pr-2"> </span>
+    <a href="tel:650-xxx-xxxx">650-xxx-xxxx</a>
+</div>
+<div class="mt-2">
+    <span class="fab fa-github pr-2"> </span>
+    <a href="https://github.com/monopole">github.com/monopole</a>
+</div>
+<div class="mt-2">
+    <span class="fas fa-home pr-2"> </span>
+    <a href="https://orangebike.dev">orangebike.dev</a>
+</div>
+<div class="mt-2">
+    <span class="fas fa-map-marker-alt pr-2"> </span>
+    <a href="https://www.google.com/maps/@37.42,-122.09">Mountain View CA</a>
+</div>
+<section class="mt-6">
+
+      
+        <div class="block">
+          <h3><a href="/personal/education/">Education</a></h3>
+          <p><strong>Ph.D. Physics</strong>,
+University of California, San Diego
+<em>Electron Transfer in Proteins: The Electron Tunneling Matrix.</em>
+TA for <a href="https://sallyridescience.ucsd.edu/about/sallyride">Sally Ride</a>.</p>
+<p><strong>M.S. Elect. Engineering</strong>,
+University of Iowa, Iowa City
+<em>Optical Switching at a Nonlinear Dielectric Interface.</em>
+TA signal processing and control theory.
+Eta-Kappa-Nu EE Honor Society.</p>
+<p><strong>B.S. Computer Science</strong>
+University of Iowa, Iowa City</p>
+
+        </div>
+      
+        <div class="block">
+          <h3><a href="/personal/awards/">Awards</a></h3>
+          <p><strong>Spot Bonus</strong></p>
+<ul>
+<li>Helpouts launch</li>
+<li>G+ games launch</li>
+</ul>
+<p><strong>Conops Engineer Appreciation</strong>: iGoogle</p>
+<p><strong>Executive Mgmt Group Impact Award</strong>: iGoogle</p>
+<p><strong>OC Award</strong>: Custom Search Engine launch</p>
+
+        </div>
+      
+        <div class="block">
+          <h3><a href="/personal/languages/">Languages</a></h3>
+          <p><strong>English</strong>: USA Native</p>
+<p><strong>French</strong>: Professional</p>
+
+        </div>
+      
+        <div class="block">
+          <h3><a href="/personal/skills/">Skills</a></h3>
+          <p><em>Proficient</em>:
+<a href="https://golang.org">Go</a>,
+<a href="https://kubernetes.io">kubernetes</a> (contributor),
+<a href="https://cloud.google.com/kubernetes-engine">GKE</a>,
+<a href="https://grpc.io/">GRPC</a>,
+C++ (circa 2010),
+java (circa 2015),
+javascript,
+<a href="https://bazel.build">bazel</a>,
+linux, shell, git</p>
+<p><em>Learning</em>:
+<a href="https://flutter.dev">flutter</a></p>
+
+        </div>
+      
+    </section>
+  </div>
+
+</div>
+
+
+            </main><footer>
     <small>Copyright 2020 Dec jr.</small>
 </footer></div>
+    </div>
     </body>
 </html>

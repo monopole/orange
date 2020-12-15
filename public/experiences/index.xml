@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IntentionallyEmpty on Jeff the boss</title>
-    <link>https://example.com/</link>
-    <description>Recent content in IntentionallyEmpty on Jeff the boss</description>
+    <title>Experiences on Jeff the boss</title>
+    <link>https://example.com/experiences/</link>
+    <description>Recent content in Experiences on Jeff the boss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Dec 2020 12:23:48 -0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://example.com/contact/</link>
-      <pubDate>Sun, 13 Dec 2020 12:24:43 -0800</pubDate>
-      
-      <guid>https://example.com/contact/</guid>
-      <description> Email: jeff.regan@gmail.com Phone: 650-xxx-xxxx GH: github.com/monopole   Mailing Address  xxxx Mountain View CA
-  </description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kustomize</title>
       <link>https://example.com/experiences/kustomize/</link>
@@ -100,49 +90,6 @@ Set up iterative test and release cycles new to Lincoln. New tested versions of 
       <guid>https://example.com/experiences/eidogen/</guid>
       <description>Second employee at Eidogen, a protein structure prediction startup.
 Built eve, which still seems to be available.</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://example.com/personal/skills/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:34 -0800</pubDate>
-      
-      <guid>https://example.com/personal/skills/</guid>
-      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2010), java (circa 2015), javascript, bazel, linux, shell, git
-Learning: flutter</description>
-    </item>
-    
-    <item>
-      <title>Languages</title>
-      <link>https://example.com/personal/languages/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:33 -0800</pubDate>
-      
-      <guid>https://example.com/personal/languages/</guid>
-      <description>English: USA Native
-French: Professional</description>
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>https://example.com/personal/awards/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:31 -0800</pubDate>
-      
-      <guid>https://example.com/personal/awards/</guid>
-      <description>Spot Bonus
- Helpouts launch G+ games launch  Conops Engineer Appreciation: iGoogle
-Executive Mgmt Group Impact Award: iGoogle
-OC Award: Custom Search Engine launch</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://example.com/personal/education/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:30 -0800</pubDate>
-      
-      <guid>https://example.com/personal/education/</guid>
-      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
-M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory. Eta-Kappa-Nu EE Honor Society.
-B.S. Computer Science University of Iowa, Iowa City</description>
     </item>
     
   </channel>
