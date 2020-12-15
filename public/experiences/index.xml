@@ -18,14 +18,14 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
     </item>
     
     <item>
-      <title>Terrabella</title>
+      <title>Terra Bella</title>
       <link>https://orangebike.dev/experiences/terrabella/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
-      <description>Terrabella was an image service based on small satellites.
-I joined Terrabella (then Skybox) after their aquisition. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLEs), integrating it into Google systems. Another role was to inject Google culture involving CI/CD, rollbacks, post-mortems, etc.
-Worked for one year on this, before the sale of Terrabella to Planet Labs.</description>
+      <description>Terra Bella was a small satellite based image service.
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLEs), integrating it into Google systems. Another role was to inject Google culture involving CI/CD, rollbacks, post-mortems, etc.
+Worked for one year on this, before the sale of Terrabella to Planet.</description>
     </item>
     
     <item>
