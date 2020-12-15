@@ -54,9 +54,9 @@ Executive Mgmt Group Impact Award: iGoogle</description>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/personal/projects/</guid>
-      <description>mdrip; extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
-gorepomod; helps one deploy multiple Go modules from one repository when the modules are interdependent.
-gol_grid; my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
+      <description>mdrip extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
+gorepomod helps one deploy multiple Go modules from one repository when the modules are interdependent.
+gol_grid is my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
     </item>
     
   </channel>

@@ -12,7 +12,7 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/kustomize/</guid>
-      <description>Kustomize is an open-source cluster configuration management project for kubernetes.
+      <description>Kustomize is an open-source cluster configuration management tool for kubernetes.
 I founded the project, and led development from nothing to 6500 github stars and over 100 contributors.
 In kubernetes, one declares the state of all cluster objects in files, then applies those files to the cluster, where controllers seek to drive objects to their newly desired states. To change the cluster one edits these files and reapplies them. This creates a new problem: how to manage these edits.</description>
     </item>
@@ -108,9 +108,9 @@ We built the most complex part of the G+ web client, as it had to mitigate the r
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/personal/projects/</guid>
-      <description>mdrip; extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
-gorepomod; helps one deploy multiple Go modules from one repository when the modules are interdependent.
-gol_grid; my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
+      <description>mdrip extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
+gorepomod helps one deploy multiple Go modules from one repository when the modules are interdependent.
+gol_grid is my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
     </item>
     
     <item>

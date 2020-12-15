@@ -12,7 +12,7 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/kustomize/</guid>
-      <description>Kustomize is an open-source cluster configuration management project for kubernetes.
+      <description>Kustomize is an open-source cluster configuration management tool for kubernetes.
 I founded the project, and led development from nothing to 6500 github stars and over 100 contributors.
 In kubernetes, one declares the state of all cluster objects in files, then applies those files to the cluster, where controllers seek to drive objects to their newly desired states. To change the cluster one edits these files and reapplies them. This creates a new problem: how to manage these edits.</description>
     </item>
