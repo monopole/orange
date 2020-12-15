@@ -13,27 +13,18 @@
 
 <main>
   <h1> Kustomize </h1>
-  <p>The two problems here were</p>
-<ul>
-<li>
-<p>Managing the dozens or possibly thousands of variants
-of the desired state of a cluster or set of clusters.</p>
-</li>
-<li>
-<p>Leading an open source project from nothing to 6500
-github stars and over 100 contributors.</p>
-</li>
-</ul>
-<p>To create a kubernetes cluster, one <em>declares</em> the
-state of all cluster objects in files, then applies
-those files to the cluster.  To edit the cluster one
-edits these files and reapplies them.</p>
-<p>This creates a new problem: how to manage these edits.</p>
-<p>kustomize solves this somewhat recursively by declaring
-the edits themselves as kubernetes objects.</p>
-<p>Kustomize is used by Google and other hundreds of other
-companies to manage their cluster variants.</p>
-<p>I founded and led the project.</p>
+  <p><a href="https://github.com/kubernetes-sigs/kustomize">Kustomize</a> is an open-source cluster configuration management
+project for <a href="https://kubernetes.io">kubernetes</a>.</p>
+<p>I <a href="https://kubernetes.io/blog/2018/05/29/introducing-kustomize-template-free-configuration-customization-for-kubernetes">founded</a> the project, and led development
+from nothing to 6500 github stars and over
+100 contributors.</p>
+<p>In kubernetes, one <em>declares</em> the state of all cluster objects
+in files, then applies those files to the cluster, where
+controllers seek to drive objects to their newly desired states.
+To change the cluster one edits these files and reapplies them.
+This creates a new problem: how to manage these edits.
+Kustomize solves this recursively by <a href="https://www.youtube.com/watch?v=EZ7kxa2GKYQ&amp;index=95&amp;t=87s&amp;list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs">declaring the edits</a>
+themselves as kubernetes objects.</p>
 
 
             </main><footer>

@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://orangebike.dev/personal/awards/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://orangebike.dev/experiences/terrabella/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +50,11 @@
   <url>
     <loc>https://orangebike.dev/personal/skills/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/personal/awards/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
