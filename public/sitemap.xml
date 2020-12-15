@@ -3,91 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/contact/</loc>
-    <lastmod>2020-12-13T12:24:43-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>https://orangebike.dev/</loc>
     <lastmod>2020-12-13T12:23:48-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/</loc>
+    <loc>https://orangebike.dev/experiences/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/kustomize/</loc>
+    <loc>https://orangebike.dev/experiences/kustomize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/terrabella/</loc>
+    <loc>https://orangebike.dev/personal/education/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/personal/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/personal/awards/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/experiences/terrabella/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/vanadium/</loc>
+    <loc>https://orangebike.dev/experiences/vanadium/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/helpouts/</loc>
+    <loc>https://orangebike.dev/personal/languages/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/experiences/helpouts/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/games/</loc>
+    <loc>https://orangebike.dev/personal/skills/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/experiences/games/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/igoogle/</loc>
+    <loc>https://orangebike.dev/personal/projects/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orangebike.dev/experiences/igoogle/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/lincoln/</loc>
+    <loc>https://orangebike.dev/experiences/lincoln/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/experiences/eidogen/</loc>
+    <loc>https://orangebike.dev/experiences/eidogen/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/personal/</loc>
-    <lastmod>1969-12-31T16:33:34-08:00</lastmod>
+    <loc>https://orangebike.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/personal/skills/</loc>
-    <lastmod>1969-12-31T16:33:34-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/personal/languages/</loc>
-    <lastmod>1969-12-31T16:33:33-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/personal/awards/</loc>
-    <lastmod>1969-12-31T16:33:31-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/personal/education/</loc>
-    <lastmod>1969-12-31T16:33:30-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://orangebike.dev/tags/</loc>
   </url>
   
 </urlset>

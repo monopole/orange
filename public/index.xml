@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IntentionallyEmpty on Jeff the boss</title>
-    <link>https://example.com/</link>
-    <description>Recent content in IntentionallyEmpty on Jeff the boss</description>
+    <title>IntentionallyEmpty on Jeff&#39;s Resume</title>
+    <link>https://orangebike.dev/</link>
+    <description>Recent content in IntentionallyEmpty on Jeff&#39;s Resume</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Dec 2020 12:23:48 -0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://example.com/contact/</link>
-      <pubDate>Sun, 13 Dec 2020 12:24:43 -0800</pubDate>
-      
-      <guid>https://example.com/contact/</guid>
-      <description> Email: jeff.regan@gmail.com Phone: 650-xxx-xxxx GH: github.com/monopole   Mailing Address  xxxx Mountain View CA
-  </description>
-    </item>
-    
+    <lastBuildDate>Sun, 13 Dec 2020 12:23:48 -0800</lastBuildDate><atom:link href="https://orangebike.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kustomize</title>
-      <link>https://example.com/experiences/kustomize/</link>
+      <link>https://orangebike.dev/experiences/kustomize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/experiences/kustomize/</guid>
+      <guid>https://orangebike.dev/experiences/kustomize/</guid>
       <description>The two problems here were
   Managing the dozens or possibly thousands of variants of the desired state of a cluster or set of clusters.
   Leading an open source project from nothing to 6500 github stars and over 100 contributors.
@@ -29,105 +19,22 @@
     </item>
     
     <item>
-      <title>Terrabella</title>
-      <link>https://example.com/experiences/terrabella/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Education</title>
+      <link>https://orangebike.dev/personal/education/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/experiences/terrabella/</guid>
-      <description>Worked on problems in satellite management
- Conversion of optimization solutions for communication and image capture to satellite commands. Conversion of orbitology software (TLE to orbital states computation) to Google systems. Development cycle for the above, including deployment, rollbacks, and requirements collection from the flight teams.  Worked for one year on this, before sale of Terrabella to Planet.</description>
-    </item>
-    
-    <item>
-      <title>Vanadium</title>
-      <link>https://example.com/experiences/vanadium/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/experiences/vanadium/</guid>
-      <description>Problem: How can distributed servers find each other, securely communicate, and delegate authority.
-This project was a predecessor to kubernetes and Google fuchsia.
-It required building libraries for service construction and discovery, a grpc-like service and protobuffer language, and a wonderful model of delegatable authorization based on public-key cryptography.
-I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11.</description>
-    </item>
-    
-    <item>
-      <title>Helpouts</title>
-      <link>https://example.com/experiences/helpouts/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/experiences/helpouts/</guid>
-      <description>Problem: How can Google literally connect a query to an expert?
-Google helpouts was Google&amp;rsquo;s attempt to turn video chat into a business platform. If a Google query for How to fix a toilet leak? failed, it could connect you to an actual human plumber who&amp;rsquo;d talk to you and walk you through the repair on a paid tutorial platform.
-I worked on the android app, the internal stack serving its API, integration with Google search, and the referral system.</description>
-    </item>
-    
-    <item>
-      <title>G&#43; Games</title>
-      <link>https://example.com/experiences/games/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/experiences/games/</guid>
-      <description>TLM of 5-10 swe/qa/interns, coordinating with extended team of dozens engaged in various aspects of G+ (stream, auth, privacy, and api).
-Built the most complex part of the G+ web client, as allowed 3rd parts apps to run on google.com with appropriate risk mitigation.
-Launched first aspect of the G+ API to developers, preceeding what came second (activity stream listing) by over a year. launched first Oauth2 app on Google.</description>
-    </item>
-    
-    <item>
-      <title>iGoogle</title>
-      <link>https://example.com/experiences/igoogle/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/experiences/igoogle/</guid>
-      <description>Google&amp;rsquo;s first attempt at both accepting POSTs (an external developer API) and social sharing.
- hmm1 hmm3 igoogle-blog igoogle-api gadget-authoring social sharing hmm3  </description>
-    </item>
-    
-    <item>
-      <title>Missle Defense UX</title>
-      <link>https://example.com/experiences/lincoln/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/experiences/lincoln/</guid>
-      <description>Managed team that built two cornerstone apps for the Reagan Test Site. The first gathered sensor (radar, optical, etc.) data from the network and presented it in ~30 different widgets (e.g., a radar bore-site view of incoming objects). The second app was a simulator to drive the displays for training.
-Set up iterative test and release cycles new to Lincoln. New tested versions of the apps are deployed every two weeks to the Reagan Test Site in Kwajalein, rather than once or twice a year at unpredictable times.</description>
-    </item>
-    
-    <item>
-      <title>Eidogen</title>
-      <link>https://example.com/experiences/eidogen/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/experiences/eidogen/</guid>
-      <description>Second employee at Eidogen, a protein structure prediction startup.
-Built eve, which still seems to be available.</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://example.com/personal/skills/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:34 -0800</pubDate>
-      
-      <guid>https://example.com/personal/skills/</guid>
-      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2010), java (circa 2015), javascript, bazel, linux, shell, git
-Learning: flutter</description>
-    </item>
-    
-    <item>
-      <title>Languages</title>
-      <link>https://example.com/personal/languages/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:33 -0800</pubDate>
-      
-      <guid>https://example.com/personal/languages/</guid>
-      <description>English: USA Native
-French: Professional</description>
+      <guid>https://orangebike.dev/personal/education/</guid>
+      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
+M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory. Eta-Kappa-Nu EE Honor Society.
+B.S. Computer Science University of Iowa, Iowa City</description>
     </item>
     
     <item>
       <title>Awards</title>
-      <link>https://example.com/personal/awards/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:31 -0800</pubDate>
+      <link>https://orangebike.dev/personal/awards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/personal/awards/</guid>
+      <guid>https://orangebike.dev/personal/awards/</guid>
       <description>Spot Bonus
  Helpouts launch G+ games launch  Conops Engineer Appreciation: iGoogle
 Executive Mgmt Group Impact Award: iGoogle
@@ -135,14 +42,108 @@ OC Award: Custom Search Engine launch</description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>https://example.com/personal/education/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:30 -0800</pubDate>
+      <title>Terrabella</title>
+      <link>https://orangebike.dev/experiences/terrabella/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/personal/education/</guid>
-      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
-M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory. Eta-Kappa-Nu EE Honor Society.
-B.S. Computer Science University of Iowa, Iowa City</description>
+      <guid>https://orangebike.dev/experiences/terrabella/</guid>
+      <description>Worked on problems in satellite management
+ Conversion of optimization solutions for communication and image capture to satellite commands. Conversion of orbitology software (TLE to orbital states computation) to Google systems. Development cycle for the above, including deployment, rollbacks, and requirements collection from the flight teams.  Worked for one year on this, before sale of Terrabella to Planet.</description>
+    </item>
+    
+    <item>
+      <title>Vanadium</title>
+      <link>https://orangebike.dev/experiences/vanadium/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/experiences/vanadium/</guid>
+      <description>Problem: How can distributed servers find each other, securely communicate, and delegate authority.
+This project was a predecessor to kubernetes and Google fuchsia.
+It required building libraries for service construction and discovery, a grpc-like service and protobuffer language, and a wonderful model of delegatable authorization based on public-key cryptography.
+I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11.</description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>https://orangebike.dev/personal/languages/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/languages/</guid>
+      <description>English: USA Native
+French: Professional</description>
+    </item>
+    
+    <item>
+      <title>Helpouts</title>
+      <link>https://orangebike.dev/experiences/helpouts/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/experiences/helpouts/</guid>
+      <description>Problem: How can Google literally connect a query to an expert?
+Google helpouts was Google&amp;rsquo;s attempt to turn video chat into a business platform. If a Google query for How to fix a toilet leak? failed, it could connect you to an actual human plumber who&amp;rsquo;d talk to you and walk you through the repair on a paid tutorial platform.
+I worked on the android app, the internal stack serving its API, integration with Google search, and the referral system.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://orangebike.dev/personal/skills/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/skills/</guid>
+      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2010), java (circa 2015), javascript, bazel, linux, shell, git
+Learning: flutter, constraint problems</description>
+    </item>
+    
+    <item>
+      <title>G&#43; Games</title>
+      <link>https://orangebike.dev/experiences/games/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/experiences/games/</guid>
+      <description>TLM of 5-10 swe/qa/interns, coordinating with extended team of dozens engaged in various aspects of G+ (stream, auth, privacy, and api).
+Built the most complex part of the G+ web client, as allowed 3rd parts apps to run on google.com with appropriate risk mitigation.
+Launched first aspect of the G+ API to developers, preceeding what came second (activity stream listing) by over a year. launched first Oauth2 app on Google.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://orangebike.dev/personal/projects/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/projects/</guid>
+      <description>mdrip; extracts and runs fenced code blocks from markdown. A means to do literate programming with markdown and any language, to write testing tutorials.
+gorepomod; helps one deploy multiple Go modules from one respository when the modules have interdependencies.
+gol_grid; my from scratch implementation of Conway&amp;rsquo;s game of life using flutter. Flutter is amazing.</description>
+    </item>
+    
+    <item>
+      <title>iGoogle</title>
+      <link>https://orangebike.dev/experiences/igoogle/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/experiences/igoogle/</guid>
+      <description>Google&amp;rsquo;s first attempt at both accepting POSTs (an external developer API) and social sharing.
+ hmm1 hmm3 igoogle-blog igoogle-api gadget-authoring social sharing hmm3  </description>
+    </item>
+    
+    <item>
+      <title>Missle Defense UX</title>
+      <link>https://orangebike.dev/experiences/lincoln/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/experiences/lincoln/</guid>
+      <description>Managed team that built two cornerstone apps for the Reagan Test Site. The first gathered sensor (radar, optical, etc.) data from the network and presented it in ~30 different widgets (e.g., a radar bore-site view of incoming objects). The second app was a simulator to drive the displays for training.
+Set up iterative test and release cycles new to Lincoln. New tested versions of the apps are deployed every two weeks to the Reagan Test Site in Kwajalein, rather than once or twice a year at unpredictable times.</description>
+    </item>
+    
+    <item>
+      <title>Eidogen</title>
+      <link>https://orangebike.dev/experiences/eidogen/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/experiences/eidogen/</guid>
+      <description>Second employee at Eidogen, a protein structure prediction startup.
+Led the team that built eve, which still seems to be available.</description>
     </item>
     
   </channel>

@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personals on Jeff the boss</title>
-    <link>https://example.com/personal/</link>
-    <description>Recent content in Personals on Jeff the boss</description>
+    <title>Personals on Jeff&#39;s Resume</title>
+    <link>https://orangebike.dev/personal/</link>
+    <description>Recent content in Personals on Jeff&#39;s Resume</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:34 -0800</lastBuildDate><atom:link href="https://example.com/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://orangebike.dev/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Skills</title>
-      <link>https://example.com/personal/skills/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:34 -0800</pubDate>
+      <title>Education</title>
+      <link>https://orangebike.dev/personal/education/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/personal/skills/</guid>
-      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2010), java (circa 2015), javascript, bazel, linux, shell, git
-Learning: flutter</description>
-    </item>
-    
-    <item>
-      <title>Languages</title>
-      <link>https://example.com/personal/languages/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:33 -0800</pubDate>
-      
-      <guid>https://example.com/personal/languages/</guid>
-      <description>English: USA Native
-French: Professional</description>
+      <guid>https://orangebike.dev/personal/education/</guid>
+      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
+M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory. Eta-Kappa-Nu EE Honor Society.
+B.S. Computer Science University of Iowa, Iowa City</description>
     </item>
     
     <item>
       <title>Awards</title>
-      <link>https://example.com/personal/awards/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:31 -0800</pubDate>
+      <link>https://orangebike.dev/personal/awards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/personal/awards/</guid>
+      <guid>https://orangebike.dev/personal/awards/</guid>
       <description>Spot Bonus
  Helpouts launch G+ games launch  Conops Engineer Appreciation: iGoogle
 Executive Mgmt Group Impact Award: iGoogle
@@ -39,14 +30,34 @@ OC Award: Custom Search Engine launch</description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>https://example.com/personal/education/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:30 -0800</pubDate>
+      <title>Languages</title>
+      <link>https://orangebike.dev/personal/languages/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/personal/education/</guid>
-      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
-M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory. Eta-Kappa-Nu EE Honor Society.
-B.S. Computer Science University of Iowa, Iowa City</description>
+      <guid>https://orangebike.dev/personal/languages/</guid>
+      <description>English: USA Native
+French: Professional</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://orangebike.dev/personal/skills/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/skills/</guid>
+      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2010), java (circa 2015), javascript, bazel, linux, shell, git
+Learning: flutter, constraint problems</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://orangebike.dev/personal/projects/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/projects/</guid>
+      <description>mdrip; extracts and runs fenced code blocks from markdown. A means to do literate programming with markdown and any language, to write testing tutorials.
+gorepomod; helps one deploy multiple Go modules from one respository when the modules have interdependencies.
+gol_grid; my from scratch implementation of Conway&amp;rsquo;s game of life using flutter. Flutter is amazing.</description>
     </item>
     
   </channel>
