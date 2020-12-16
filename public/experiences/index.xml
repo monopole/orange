@@ -23,8 +23,8 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
-      <description>Terra Bella was a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLEs), integrating it into Google systems. Another role was to inject Google culture involving CI/CD, rollbacks, post-mortems, etc.
+      <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I also encouraged adoption of good aspects of Google culture; CI/CD, rollbacks, post-mortems, etc.
 Seeing SkySats 4-7 launch and later accept our commands was unforgettable.</description>
     </item>
     
@@ -44,7 +44,7 @@ I contributed to the libraries and overall project organization, wrote extensive
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/helpouts/</guid>
-      <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform. If a Google query for How to fix a toilet leak? failed, Google could offer the user a chance to buy time with a human expert, anywhere in the world.
+      <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform. If a Google query (How to fix a leaking toilet?) failed, Google could offer the user a chance to buy time with a human expert, anywhere in the world.
 I worked on the android app and the API it talked to, arranged for consumer and provider notifications, and did integration with Google search.
 This project offered piano lessons, cooking, vacation advice and medical services in one app.</description>
     </item>
@@ -67,7 +67,7 @@ We built the most complex part of the G+ web client, as it had to mitigate the r
       
       <guid>https://orangebike.dev/experiences/igoogle/</guid>
       <description>iGoogle was Google&amp;rsquo;s homepage, and Google&amp;rsquo;s first developer platform (gadget authoring).
-I designed and built its gadget data sharing API (also Google&amp;rsquo;s first social API), and worked on it&amp;rsquo;s C++ stack.</description>
+I designed and built its gadget data sharing API (also Google&amp;rsquo;s first social API), and worked on its C++ stack.</description>
     </item>
     
     <item>
