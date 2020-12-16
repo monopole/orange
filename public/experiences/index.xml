@@ -35,7 +35,7 @@ Worked for one year on this, before the sale of Terrabella to Planet.</descripti
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
       <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography. The project predated service mesh concepts bolted on to kubernetes years later.
-I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11. For example, I wrote volley, a distributed openGL app for iOS, android, osX, X11 in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).</description>
+I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11. One such demo is volley, a distributed openGL app for iOS, android, osX, X11 in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).</description>
     </item>
     
     <item>

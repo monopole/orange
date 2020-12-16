@@ -29,6 +29,16 @@ B.S. Computer Science University of Iowa, Iowa City</description>
     </item>
     
     <item>
+      <title>Skills</title>
+      <link>https://orangebike.dev/personal/skills/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/skills/</guid>
+      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2011), java (circa 2015), javascript, bazel, linux, shell, git
+Learning: flutter, constraint problems</description>
+    </item>
+    
+    <item>
       <title>Terra Bella</title>
       <link>https://orangebike.dev/experiences/terrabella/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
@@ -46,17 +56,18 @@ Worked for one year on this, before the sale of Terrabella to Planet.</descripti
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
       <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography. The project predated service mesh concepts bolted on to kubernetes years later.
-I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11. For example, I wrote volley, a distributed openGL app for iOS, android, osX, X11 in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).</description>
+I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11. One such demo is volley, a distributed openGL app for iOS, android, osX, X11 in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).</description>
     </item>
     
     <item>
-      <title>Languages</title>
-      <link>https://orangebike.dev/personal/languages/</link>
+      <title>Projects</title>
+      <link>https://orangebike.dev/personal/projects/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://orangebike.dev/personal/languages/</guid>
-      <description>English: USA Native
-French: Conversational</description>
+      <guid>https://orangebike.dev/personal/projects/</guid>
+      <description>mdrip extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
+gorepomod helps one deploy multiple Go modules from one repository when the modules are interdependent.
+gol_grid is my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
     </item>
     
     <item>
@@ -71,24 +82,13 @@ This project offered piano lessons, cooking, vacation advice and medical service
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://orangebike.dev/personal/skills/</link>
+      <title>Languages</title>
+      <link>https://orangebike.dev/personal/languages/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://orangebike.dev/personal/skills/</guid>
-      <description>Proficient: Go, kubernetes (contributor), GKE, GRPC, C++ (circa 2011), java (circa 2015), javascript, bazel, linux, shell, git
-Learning: flutter, constraint problems</description>
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>https://orangebike.dev/personal/awards/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://orangebike.dev/personal/awards/</guid>
-      <description>Spot Bonus
- Helpouts launch G+ games launch  Conops Engineer Appreciation: iGoogle
-Executive Mgmt Group Impact Award: iGoogle</description>
+      <guid>https://orangebike.dev/personal/languages/</guid>
+      <description>English: Native
+French: Conversational</description>
     </item>
     
     <item>
@@ -103,14 +103,14 @@ We built the most complex part of the G+ web client, as it had to mitigate the r
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://orangebike.dev/personal/projects/</link>
+      <title>Awards</title>
+      <link>https://orangebike.dev/personal/awards/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://orangebike.dev/personal/projects/</guid>
-      <description>mdrip extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
-gorepomod helps one deploy multiple Go modules from one repository when the modules are interdependent.
-gol_grid is my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
+      <guid>https://orangebike.dev/personal/awards/</guid>
+      <description>Spot Bonus
+ Helpouts launch G+ games launch  Conops Engineer Appreciation: iGoogle
+Executive Mgmt Group Impact Award: iGoogle</description>
     </item>
     
     <item>
