@@ -23,9 +23,9 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
-      <description>Terra Bella was a small satellite based image service.
+      <description>Terra Bella was a satellite-based Earth imaging service.
 I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLEs), integrating it into Google systems. Another role was to inject Google culture involving CI/CD, rollbacks, post-mortems, etc.
-Worked for one year on this, before the sale of Terrabella to Planet.</description>
+Worked for one year on this, and watched SkySats 4-7 launch with sats we commanded.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ I contributed to the libraries and overall project organization, wrote extensive
       
       <guid>https://orangebike.dev/experiences/helpouts/</guid>
       <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform. If a Google query for How to fix a toilet leak? failed, Google could offer the user a chance to buy time with a human expert, anywhere in the world.
-I worked on the android app and the API it talked to, arranged for producer and consumer notifications, and did integration with Google search.
+I worked on the android app and the API it talked to, arranged for consumer and provider notifications, and did integration with Google search.
 This project offered piano lessons, cooking, vacation advice and medical services in one app.</description>
     </item>
     
