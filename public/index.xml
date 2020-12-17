@@ -45,7 +45,8 @@ Learning: flutter, constraint problems</description>
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I also encouraged adoption of good aspects of Google culture; CI/CD, easy rollbacks, post-mortems, etc.</description>
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.
+Seeing SkySats 4-7 launch and later accept our commands was a highlight.</description>
     </item>
     
     <item>
@@ -97,7 +98,7 @@ French: Conversational</description>
       
       <guid>https://orangebike.dev/experiences/games/</guid>
       <description>Google+ Games launched when FarmVille was in its prime.
-I was TLM of 5-10 swe/qa/interns, coordinating with extended team of dozens engaged in various aspects of G+ (stream, auth, privacy, and api).
+I was TLM of the vertical, with 5-10 swes and interns, coordinating with extended team of dozens engaged in various aspects of G+ (stream, auth, privacy, and api).
 We built the most complex part of the G+ web client, as it had to mitigate the risk of allowing 3rd party apps to run on Google domains. To do so, we launched the first aspect of the G+ API to games developers (contact sharing), preceding what came second (activity stream listing) by over a year.</description>
     </item>
     
