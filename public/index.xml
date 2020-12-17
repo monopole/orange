@@ -45,8 +45,7 @@ Learning: flutter, constraint problems</description>
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I also encouraged adoption of good aspects of Google culture; CI/CD, rollbacks, post-mortems, etc.
-Seeing SkySats 4-7 launch and later accept our commands was unforgettable.</description>
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I also encouraged adoption of good aspects of Google culture; CI/CD, easy rollbacks, post-mortems, etc.</description>
     </item>
     
     <item>
