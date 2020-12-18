@@ -35,7 +35,8 @@ Seeing SkySats 4-7 launch and later accept our commands was a highlight.</descri
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
       <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography. The project predated service mesh concepts bolted on to kubernetes years later.
-I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos for android, ios and X11. One such demo is volley, a distributed openGL app for iOS, android, OS X, and linux (X11) in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).</description>
+I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos. One such demo is volley, a distributed openGL app for iOS, Android, OS X, and X11 (linux) in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
+Investment into Vanadium was halted in favor of fuchsia.</description>
     </item>
     
     <item>
@@ -44,9 +45,8 @@ I contributed to the libraries and overall project organization, wrote extensive
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/helpouts/</guid>
-      <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform. If a Google query (How to fix a leaking toilet?) failed, Google could offer the user a chance to buy time with a human expert, anywhere in the world.
-I worked on the android app and the API it talked to, arranged for consumer and provider notifications, and did integration with Google search.
-This project offered piano lessons, cooking, vacation advice and medical services in one app.</description>
+      <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform. If a Google query (fix a leaking toilet?) failed to offer quality results, Google could offer the user a chance to buy time with a human expert, anywhere in the world.
+I worked on the Android app and the API it talked to, arranged for consumer and provider notifications, and did the Google search failed query integration.</description>
     </item>
     
     <item>
