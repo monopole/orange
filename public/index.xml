@@ -13,7 +13,7 @@
       
       <guid>https://orangebike.dev/experiences/kustomize/</guid>
       <description>Kustomize is an open-source cluster configuration management tool for kubernetes.
-I founded the project, and led development from nothing to 6500 github stars and over 100 contributors.
+I founded the project, guiding it from from nothing to 6500 github stars and over 100 contributors.
 In kubernetes, one declares the state of all cluster objects in files, then applies those files to the cluster, where controllers drive objects to their newly desired states. To change the cluster one edits the files and reapplies them. This creates a new problem: how to manage these edits, how to manage hundreds if not thousands of cluster variants.</description>
     </item>
     
@@ -46,7 +46,7 @@ Learning: flutter, constraint problems</description>
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
 I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.
-Seeing SkySats 4-7 launch and later accept our commands was a highlight.</description>
+Seeing SkySats 4-7 launch with the team, and later accept our commands, was a highlight.</description>
     </item>
     
     <item>
@@ -55,8 +55,8 @@ Seeing SkySats 4-7 launch and later accept our commands was a highlight.</descri
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
-      <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography. The project predated service mesh concepts bolted on to kubernetes years later.
-I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, and built demos. One such demo is volley, a distributed openGL app for iOS, Android, OS X, and X11 (linux) in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
+      <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography.
+I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research, and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
 Investment into Vanadium was halted in favor of fuchsia.</description>
     </item>
     
@@ -111,6 +111,16 @@ We built the most complex part of the G+ web client, as it had to mitigate the r
       <description>Spot Bonus
  Helpouts launch G+ games launch  Conops Engineer Appreciation: iGoogle
 Executive Mgmt Group Impact Award: iGoogle</description>
+    </item>
+    
+    <item>
+      <title>Aphorisms</title>
+      <link>https://orangebike.dev/personal/aphorisms/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/aphorisms/</guid>
+      <description>Humility, respect and trust are the basis of good engineering.
+Culture eats strategy for breakfast.</description>
     </item>
     
     <item>
