@@ -7,20 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://orangebike.dev/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Education</title>
-      <link>https://orangebike.dev/personal/education/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://orangebike.dev/personal/education/</guid>
-      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
-M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory. Eta-Kappa-Nu EE Honor Society.
-B.S. Computer Science University of Iowa, Iowa City</description>
-    </item>
-    
-    <item>
       <title>Skills</title>
       <link>https://orangebike.dev/personal/skills/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/personal/skills/</guid>
       <description>Expert: Go, kubernetes (contributor), GKE, java (circa 2015), GRPC, C++ (circa 2011), javascript, bazel, linux, shell, git,
@@ -30,12 +19,23 @@ Learning: flutter, reinforcement learning, constraint problems.</description>
     <item>
       <title>Projects</title>
       <link>https://orangebike.dev/personal/projects/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/personal/projects/</guid>
       <description>mdrip extracts and runs fenced code blocks from markdown, collecting output and reporting errors. This literate programming approach allows tutorials to be tested as part of CI/CD, or conversely, allows e2e tests to be framed as tutorials.
 gorepomod helps one deploy multiple Go modules from one repository when the modules are interdependent.
 gol_grid is my implementation of Conway&amp;rsquo;s game of life using flutter. Used to learn flutter&amp;rsquo;s BLoc pattern, and test mobile vs web performance of same code.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://orangebike.dev/personal/education/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/personal/education/</guid>
+      <description>Ph.D. Physics, University of California, San Diego Electron Transfer in Proteins: The Electron Tunneling Matrix. TA for Sally Ride.
+M.S. Elect. Engineering, University of Iowa, Iowa City Optical Switching at a Nonlinear Dielectric Interface. TA signal processing and control theory.
+B.S. Computer Science University of Iowa, Iowa City Indeterminant Execution in Prolog.</description>
     </item>
     
     <item>
