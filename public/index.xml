@@ -55,8 +55,8 @@ I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned 
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
       <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography.
-I contributed to the Go libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research, and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
-Investment into Vanadium was halted in favor of fuchsia, a new operating system.</description>
+I contributed to the Go libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research to validate the educational material, and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
+Vanadium and kubernetes (k8s) started about the same time, approaching distributed computing from very different directions.</description>
     </item>
     
     <item>
@@ -151,6 +151,15 @@ I introduced iterative test and release cycles to the group, moving from an unpr
       
       <guid>https://orangebike.dev/experiences/eidogen/</guid>
       <description>Eidogen was a protein structure prediction startup. As second employee, I led the team that built eve, a protein fold and gene sequence explorer. I based it on Java3d, which at the time was the best way to integrate OpenGL and Swing widgets.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://orangebike.dev/r/autxflare1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangebike.dev/r/autxflare1/</guid>
+      <description></description>
     </item>
     
     <item>
