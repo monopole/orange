@@ -12,9 +12,9 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/kustomize/</guid>
-      <description>Kustomize is an open-source cluster configuration management tool for kubernetes.
-I founded the project, guiding it from from nothing to 6500 github stars and over 100 contributors.
-In kubernetes, one declares the state of all cluster objects in files, then applies those files to the cluster, where controllers drive objects to their newly desired states. To change the cluster one edits the files and reapplies them. This creates a new problem: how to manage these edits, how to manage hundreds if not thousands of cluster variants.</description>
+      <description>Kustomize is a Go-based open-source cluster configuration management tool for kubernetes.
+I founded the project, leading it to 6500 github stars and over 100 contributors. I remain a primary contributor.
+In kubernetes, one declares the state of all cluster objects in files, then applies those files to the cluster, where controllers drive objects to their newly desired states. To change the cluster one edits the files and reapplies them. This creates a new problem: how to manage these edits, how to manage hundreds of cluster variants.</description>
     </item>
     
     <item>
@@ -24,8 +24,7 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I worked on a service that produced a satellite command stream based on constraints around imaging and communication opportunities. I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.
-Seeing SkySats 4-7 launch with the team, and later accept our commands, was a highlight.</description>
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a java-based service that produced a satellite command stream based on constraints around imaging and communication opportunities (it used Google spanner and flume). I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.</description>
     </item>
     
     <item>
@@ -35,8 +34,8 @@ Seeing SkySats 4-7 launch with the team, and later accept our commands, was a hi
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
       <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography.
-I contributed to the libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research, and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
-Investment into Vanadium was halted in favor of fuchsia.</description>
+I contributed to the Go libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research, and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
+Investment into Vanadium was halted in favor of fuchsia, a new operating system.</description>
     </item>
     
     <item>
@@ -45,8 +44,9 @@ Investment into Vanadium was halted in favor of fuchsia.</description>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/helpouts/</guid>
-      <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform. If a Google query (fix a leaking toilet?) failed to offer quality results, Google could offer the user a chance to buy time with a human expert, anywhere in the world.
-I worked on the Android app and the API it talked to, arranged for consumer and provider notifications, and did the Google search failed query integration.</description>
+      <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform.
+Google could offer the user a chance to buy time with a human expert, anywhere in the world.
+I worked on the Android app and the java-based REST API it talked to, arranged for consumer and provider notifications using Google infra, and did Google search &amp;ldquo;failed query&amp;rdquo; integration that presented a Helpouts onebox, and did user studies at random locations in Palo Alto to test our mobile UX.</description>
     </item>
     
     <item>
@@ -56,8 +56,8 @@ I worked on the Android app and the API it talked to, arranged for consumer and 
       
       <guid>https://orangebike.dev/experiences/games/</guid>
       <description>Google+ Games launched when FarmVille was in its prime.
-I was TLM of the vertical, with 5-10 swes and interns, coordinating with extended team of dozens engaged in various aspects of G+ (stream, auth, privacy, and api).
-We built the most complex part of the G+ web client, as it had to mitigate the risk of allowing 3rd party apps to run on Google domains. To do so, we launched the first aspect of the G+ API to games developers (contact sharing), preceding what came second (activity stream listing) by over a year.</description>
+I was TLM, coordinating my team&amp;rsquo;s work with extended teams engaged in various aspects of G+ (stream, auth, privacy, and API).
+My team built the most complex part of the G+ web client, as it had to mitigate the risk of allowing 3rd party apps to run on Google domains. To do so, we launched the first aspect of the G+ API to games developers (contact sharing), preceding what came second (activity stream listing) by over a year.</description>
     </item>
     
     <item>
@@ -87,7 +87,7 @@ I introduced iterative test and release cycles to the group, moving from an unpr
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/experiences/eidogen/</guid>
-      <description>Eidogen was a protein structure prediction startup. As second employee, I led the team that built eve, which still seems to be available. I based it on Java3d, which at the time was perfect for integrating large molecule static renders with a desktop app based on Swing.</description>
+      <description>Eidogen was a protein structure prediction startup. As second employee, I led the team that built eve, a protein fold and gene sequence explorer. I based it on Java3d, which at the time was the best way to integrate OpenGL and Swing widgets.</description>
     </item>
     
   </channel>
