@@ -77,8 +77,8 @@ B.S. Computer Science University of Iowa, Iowa City Indeterminant Execution in P
       
       <guid>https://orangebike.dev/experiences/helpouts/</guid>
       <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform.
-Google could offer the user a chance to buy time with a human expert, anywhere in the world.
-I worked on the Android app and the java-based REST API it talked to, arranged for consumer and provider notifications using Google infra, and did Google search &amp;ldquo;failed query&amp;rdquo; integration that presented a Helpouts onebox, and did user studies at random locations in Palo Alto to test our mobile UX.</description>
+I worked on the Android app and the java-based REST API it talked to, arranged for consumer and provider notifications using Google infra, and did Google search &amp;ldquo;failed query&amp;rdquo; integration that presented a Helpouts onebox, and did user studies at random locations in Palo Alto to test our mobile UX. We had a startup mentality.
+This project offered piano lessons, cooking, vacation advice and medical services in one app.</description>
     </item>
     
     <item>
