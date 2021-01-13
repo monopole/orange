@@ -24,7 +24,7 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a java-based service that produced a satellite command stream based on constraints around imaging and communication opportunities (it used Google spanner and flume). I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.</description>
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a java-based service that produced a satellite command stream based on constraints around imaging and communication opportunities (it used Google spanner and flume). I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. On the ground software team I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.</description>
     </item>
     
     <item>

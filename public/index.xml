@@ -23,8 +23,8 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://orangebike.dev/personal/skills/</guid>
-      <description>Expert: Go, kubernetes (contributor), GKE, java (circa 2015), GRPC, C++ (circa 2011), javascript, bazel, linux, shell, git,
-Learning: flutter, reinforcement learning, constraint problems.</description>
+      <description>Go, kubernetes (contributor), GKE, java (circa 2015), GRPC, C++ (circa 2011), javascript, linux, git, bazel, shell, etc.
+Learning: flutter, reinforcement learning vs control theory.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ gol_grid is my implementation of Conway&amp;rsquo;s game of life using flutter. 
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a java-based service that produced a satellite command stream based on constraints around imaging and communication opportunities (it used Google spanner and flume). I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.</description>
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a java-based service that produced a satellite command stream based on constraints around imaging and communication opportunities (it used Google spanner and flume). I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. On the ground software team I worked to improve CI/CD, allow rollbacks, conduct post-mortems, etc.</description>
     </item>
     
     <item>
@@ -82,13 +82,13 @@ I worked on the Android app and the java-based REST API it talked to, arranged f
     </item>
     
     <item>
-      <title>Languages</title>
-      <link>https://orangebike.dev/personal/languages/</link>
+      <title>Aphorisms</title>
+      <link>https://orangebike.dev/personal/aphorisms/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://orangebike.dev/personal/languages/</guid>
-      <description>English: Native
-French: Conversational</description>
+      <guid>https://orangebike.dev/personal/aphorisms/</guid>
+      <description>Humility, respect and trust are the basis of good engineering.
+Culture eats strategy for breakfast.</description>
     </item>
     
     <item>
@@ -114,13 +114,12 @@ Executive Mgmt Group Impact Award: iGoogle</description>
     </item>
     
     <item>
-      <title>Aphorisms</title>
-      <link>https://orangebike.dev/personal/aphorisms/</link>
+      <title>Misc</title>
+      <link>https://orangebike.dev/personal/misc/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://orangebike.dev/personal/aphorisms/</guid>
-      <description>Humility, respect and trust are the basis of good engineering.
-Culture eats strategy for breakfast.</description>
+      <guid>https://orangebike.dev/personal/misc/</guid>
+      <description>Five rides across Iowa with family (because fun). Fifteen years of biking to work (because exercise). Climbed Gannett Peak. Muay Thai student. Passable French. US Citizen.</description>
     </item>
     
     <item>
