@@ -34,8 +34,8 @@ I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned 
       
       <guid>https://orangebike.dev/experiences/vanadium/</guid>
       <description>Vanadium lets distributed services find each other, securely communicate, and delegate authority using public-key cryptography.
-I contributed to the Go libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research to validate the educational material, and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
-Vanadium and kubernetes (k8s) started about the same time, approaching distributed computing from very different directions.</description>
+I contributed to the Go libraries and overall project organization, wrote extensive, tested tutorials, worked closely with UX research to validate our material and built demos. One such demo is volley, a distributed OpenGL app for iOS, Android, OS X, and X11 (linux) written in Go that demonstrates vanadium&amp;rsquo;s cross platform power (code).
+Vanadium and kubernetes (k8s) started about the same time, approaching distributed computing from different directions.</description>
     </item>
     
     <item>
@@ -56,8 +56,7 @@ This project offered piano lessons, cooking, vacation advice and medical service
       
       <guid>https://orangebike.dev/experiences/games/</guid>
       <description>Google+ Games launched when FarmVille was in its prime.
-I was TLM, coordinating my team&amp;rsquo;s work with extended teams engaged in various aspects of G+ (stream, auth, privacy, and API).
-My team built the most complex part of the G+ web client, as it had to mitigate the risk of allowing 3rd party apps to run on Google domains. To do so, we launched the first aspect of the G+ API to games developers (contact sharing), preceding what came second (activity stream listing) by over a year.</description>
+I was TLM, coordinating my team&amp;rsquo;s work with extended teams engaged in various aspects of G+ (API, auth, and privacy). My team built the most complex part of the G+ web client, as it had to mitigate the risk of 3rd party apps to running on Google domains. To do so, we launched the first use of OAuth2 at Google, and the first aspect of the G+ API, preceding what came second (activity stream listing) by over a year.</description>
     </item>
     
     <item>
