@@ -24,7 +24,8 @@ In kubernetes, one declares the state of all cluster objects in files, then appl
       
       <guid>https://orangebike.dev/experiences/terrabella/</guid>
       <description>Terra Bella (now Planet) is a satellite-based Earth imaging service.
-I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a java-based service that produced a satellite command stream based on constraints around imaging and communication opportunities (it used Google spanner and flume). I also worked on orbitology software (orbit prediction from TLE), integrating it into Google systems. I worked to improve CI/CD, support rollbacks, conduct post-mortems, etc.</description>
+I joined Terra Bella (formerly Skybox) after its acquisition by Google. I owned a Java-based service that produced a satellite command stream based on constraints around imaging and comms opportunities. I also worked on integrating commercial TLE propagation code into Google systems. I worked to improve CI/CD, support rollbacks, conduct post-mortems, etc.
+Seeing SkySats 4-7 launch with the team, and later accept our commands, was a highlight.</description>
     </item>
     
     <item>
@@ -45,7 +46,7 @@ Vanadium and kubernetes (k8s) started about the same time, approaching distribut
       
       <guid>https://orangebike.dev/experiences/helpouts/</guid>
       <description>Google Helpouts was Google&amp;rsquo;s attempt to turn video chat into a small business platform.
-I worked on the Android app and the java-based REST API it talked to, arranged for consumer and provider notifications using Google infra, and did Google search &amp;ldquo;failed query&amp;rdquo; integration that presented a Helpouts onebox, and did user studies at random locations in Palo Alto to test our mobile UX.
+I worked on the Android app and the Java-based REST API it talked to, arranged for consumer and provider notifications using Google infra, and did Google search &amp;ldquo;failed query&amp;rdquo; integration that presented a Helpouts onebox, and did user studies at random locations in Palo Alto to test our mobile UX.
 This project offered piano lessons, cooking, vacation advice and medical services in one app.</description>
     </item>
     
