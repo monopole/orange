@@ -35,11 +35,12 @@ a distributed OpenGL app for iOS, Android, OS X, and X11
 power (<a href="https://github.com/monopole/volley">code</a>).</p>
 <p>Vanadium and kubernetes (k8s) started about the same time,
 approaching distributed computing from different directions.
-K8s is a centrally controlled orchestration system that runs
-existing software, while Vanadium is a set of libraries
-and tools to build new microservices - on PC, mobile, and IoT,
-that have no option other than to securely coordinate
-with each other.  Vanadium baked strong crypto directly into
+K8s is a cluster orchestration system that runs
+existing software in fault tolerant fashion,
+while Vanadium is a set of libraries and tools to build
+cross-platform microservices - on PC, mobile, and IoT,
+that securely coordinate with each other out of the box
+Vanadium bakes strong crypto directly into
 RPC and discovery, predating <a href="https://istio.io/latest/docs/concepts/what-is-istio/">service mesh</a> concepts that
 are add-ons to <a href="https://kubernetes.io">kubernetes</a>.  Google&rsquo;s investment into
 V was halted in favor of <a href="https://fuchsia.dev">fuchsia</a> and k8s.</p>
